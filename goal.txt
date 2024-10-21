@@ -1,0 +1,5 @@
+Add components : header, user input, result table
+Fetch & store user input
+Calculate result using util functions
+Display result in table (semantic HTML)
+Display info message on year < 1
